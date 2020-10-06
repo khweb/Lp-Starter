@@ -1,0 +1,51 @@
+@import "_vars.less";
+@import "_fonts.less";
+@import "_libs.less";
+
+::placeholder {
+	color: #666;
+}
+
+body {
+	font-size: 14px;
+	min-width: 320px;
+	position: relative;
+	line-height: 1.5;
+	font-family: @default-font;
+	overflow-x: hidden;
+	color: @text;
+	input, textarea {
+		border: #666 1px solid;
+		outline: none;
+		&:focus:required:invalid {
+			border-color: red;
+		}
+		&:required:valid {
+			border-color: green;
+		}	
+	}
+}
+h1, h2, h3, h4, h5, h6 {
+	color: @title;
+}
+h5 {
+	font-size: 16px;
+}
+
+.img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	&.img-width {
+		width: 100%;
+	}
+}
+
+.text-center {
+	text-align: center;
+}
+
+
+	
+@import "components/**/*";
+
