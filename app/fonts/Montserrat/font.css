@@ -1,0 +1,26 @@
+@font-face {
+     font-display: auto;
+  font-family: "Montserrat";
+  src: url("../lptheme/fonts/Montserrat/Montserrat-Bold.eot");
+  src: url("../lptheme/fonts/Montserrat/Montserrat-Bold.eot?#iefix")format("embedded-opentype"), url("../lptheme/fonts/Montserrat/Montserrat-Bold.woff") format("woff"), url("../lptheme/fonts/Montserrat/Montserrat-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+     font-display: auto;
+  font-family: "Montserrat";
+  src: url("../lptheme/fonts/Montserrat/Montserrat-ExtraLight.eot");
+  src: url("../lptheme/fonts/Montserrat/Montserrat-ExtraLight?#iefix")format("embedded-opentype"), url("../lptheme/fonts/Montserrat/Montserrat-ExtraLight.woff") format("woff"), url("../lptheme/Montserrat-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+     font-display: auto;
+  font-family: "Montserrat";
+  src: url("../lptheme/fonts/Montserrat/Montserrat-Regular.eot");
+  src: url("../lptheme/fonts/Montserrat/Montserrat-Regular.eot?#iefix")format("embedded-opentype"), url("../lptheme/fonts/Montserrat/Montserrat-Regular.woff") format("woff"), url("../lptheme/fonts/Montserrat/Montserrat-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+}

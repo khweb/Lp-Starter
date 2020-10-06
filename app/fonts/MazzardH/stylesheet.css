@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('MazzardH-Medium.eot');
+    src: local('Mazzard H Medium'), local('MazzardH-Medium'),
+        url('MazzardH-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MazzardH-Medium.woff2') format('woff2'),
+        url('MazzardH-Medium.woff') format('woff'),
+        url('MazzardH-Medium.ttf') format('truetype'),
+        url('MazzardH-Medium.svg#MazzardH-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('MazzardH-Bold.eot');
+    src: local('Mazzard H Bold'), local('MazzardH-Bold'),
+        url('MazzardH-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MazzardH-Bold.woff2') format('woff2'),
+        url('MazzardH-Bold.woff') format('woff'),
+        url('MazzardH-Bold.ttf') format('truetype'),
+        url('MazzardH-Bold.svg#MazzardH-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('MazzardH-Light.eot');
+    src: local('Mazzard H Light'), local('MazzardH-Light'),
+        url('MazzardH-Light.eot?#iefix') format('embedded-opentype'),
+        url('MazzardH-Light.woff2') format('woff2'),
+        url('MazzardH-Light.woff') format('woff'),
+        url('MazzardH-Light.ttf') format('truetype'),
+        url('MazzardH-Light.svg#MazzardH-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('MazzardH-SemiBold.eot');
+    src: local('Mazzard H SemiBold'), local('MazzardH-SemiBold'),
+        url('MazzardH-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MazzardH-SemiBold.woff2') format('woff2'),
+        url('MazzardH-SemiBold.woff') format('woff'),
+        url('MazzardH-SemiBold.ttf') format('truetype'),
+        url('MazzardH-SemiBold.svg#MazzardH-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mazzard H';
+    src: url('MazzardH-Regular.eot');
+    src: local('Mazzard H Regular'), local('MazzardH-Regular'),
+        url('MazzardH-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MazzardH-Regular.woff2') format('woff2'),
+        url('MazzardH-Regular.woff') format('woff'),
+        url('MazzardH-Regular.ttf') format('truetype'),
+        url('MazzardH-Regular.svg#MazzardH-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

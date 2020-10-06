@@ -1,0 +1,59 @@
+ @font-face {
+     font-display: auto;
+            font-family: "GothamPro-BL";
+            src: url('../lptheme/fonts/GothamPro/GothamProBlack.eot');
+            src: url('../lptheme/fonts/GothamPro/GothamProBlack.eot?#iefix') format('embedded-opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProBlack.otf') format('opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProBlack.svg'),
+            url('../lptheme/fonts/GothamPro/GothamProBlack.woff') format('woff'),
+            url('../lptheme/fonts/GothamPro/GothamProBlack.ttf') format('truetype');
+            font-style: normal;
+        }
+
+        @font-face {
+            font-display: auto;
+            font-family: "GothamPro-B";
+            src: url('../lptheme/fonts/GothamPro/GothamProBold.eot');
+            src: url('../lptheme/fonts/GothamPro/GothamProBold.eot?#iefix') format('embedded-opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProBold.otf') format('opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProBold.svg'),
+            url('../lptheme/fonts/GothamPro/GothamProBold.woff') format('woff'),
+            url('../lptheme/fonts/GothamPro/GothamProBold.ttf') format('truetype');
+            font-style: normal;
+        }
+
+        @font-face {
+            font-display: auto;
+            font-family: "GothamPro-M";
+            src: url('../lptheme/fonts/GothamPro/GothamProMedium.eot');
+            src: url('../lptheme/fonts/GothamPro/GothamProMedium.eot?#iefix') format('embedded-opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProMedium.otf') format('opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProMedium.svg'),
+            url('../lptheme/fonts/GothamPro/GothamProMedium.woff') format('woff'),
+            url('../lptheme/fonts/GothamPro/GothamProMedium.ttf') format('truetype');
+            font-style: normal;
+        }
+
+        @font-face {
+            font-display: auto;
+            font-family: "GothamPro-R";
+            src: url('../lptheme/fonts/GothamPro/GothamProRegular.eot');
+            src: url('../lptheme/fonts/GothamPro/GothamProRegular.eot?#iefix') format('embedded-opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProRegular.otf') format('opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProRegular.svg'),
+            url('../lptheme/fonts/GothamPro/GothamProRegular.woff') format('woff'),
+            url('../lptheme/fonts/GothamPro/GothamProRegular.ttf') format('truetype');
+            font-style: normal;
+        }
+
+        @font-face {
+            font-display: auto;
+            font-family: "GothamPro-L";
+            src: url('../lptheme/fonts/GothamPro/GothamProLight.eot');
+            src: url('../lptheme/fonts/GothamPro/GothamProLight.eot?#iefix') format('embedded-opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProLight.otf') format('opentype'),
+            url('../lptheme/fonts/GothamPro/GothamProLight.svg'),
+            url('../lptheme/fonts/GothamPro/GothamProLight.woff') format('woff'),
+            url('../lptheme/fonts/GothamPro/GothamProLight.ttf') format('truetype');
+            font-style: normal;
+        }
