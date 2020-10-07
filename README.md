@@ -1,4 +1,4 @@
-# Starter
+# LP-Starter
 <i>Fast start with gulp</i>
  
 Starter work fine with node version 8.11.3.
